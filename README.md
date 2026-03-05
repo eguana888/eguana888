@@ -36,11 +36,3 @@ Here are some ideas to get you started:
 
 ---
 
-### 📋 Stat 📋
-<img src="https://github-readme-stats.vercel.app/api?username=Lee-yeonjin&show_icons=true&theme=radical&hide_border=true" alt="Yeonjin's GitHub stats" />
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lee-yeonjin&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages" />
-
-</div>
